@@ -1,9 +1,8 @@
-group,Input Perturbation,Sensitivity Analysis
-Feature 1,0.25,0.02
-Feature 2,0.12,0.13
-Feature 3,0.24,0.15
-Feature 4,0.01,0.16
-Feature 5,0.05,0.11
-Feature 6,0.06,0.15
-Feature 7,0.16,0.14
-Feature 8,0.10,0.14
+group,sensitivity analysis,input perturbation
+day,0.145516074,0.161795082
+hour,0.10321489,0.273436902
+minute,0.045685279,0.042892792
+is_weekend,0.074450085,0.248473732
+temp,0.120135364,0.103994561
+humidity,0.194585448,0.140218631
+precip,0.31641286,0.0291883
